@@ -28,9 +28,9 @@
 #
 ####################################################################################################
 #
-# More information: http://macmule.com/2010/11/18/how-to-set-osxs-screen-saver-via-script/
+# More information: http://macmule.com/2013/02/18/correct-ad-users-home-mobile-home-folder-permissions/
 #
-# GitRepo: https://github.com/macmule/setscreensaver
+# GitRepo: https://github.com/macmule/CorrectADUsersHomeFolderPermissions
 #
 ####################################################################################################
 
